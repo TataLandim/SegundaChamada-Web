@@ -1,0 +1,9 @@
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Dominio\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

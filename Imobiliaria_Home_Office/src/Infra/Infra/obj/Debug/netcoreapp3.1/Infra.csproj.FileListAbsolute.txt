@@ -1,0 +1,15 @@
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.json
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.dev.json
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.genruntimeconfig.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Infra\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete

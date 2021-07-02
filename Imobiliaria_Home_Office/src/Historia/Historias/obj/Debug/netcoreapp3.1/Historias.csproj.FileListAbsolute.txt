@@ -1,0 +1,12 @@
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\bin\Debug\netcoreapp3.1\Historias.deps.json
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\bin\Debug\netcoreapp3.1\Historias.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\bin\Debug\netcoreapp3.1\Historias.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.csprojAssemblyReference.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.AssemblyInfoInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.AssemblyInfo.cs
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.csproj.CoreCompileInputs.cache
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.csproj.CopyComplete
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.dll
+C:\Users\MARTINS\Desktop\Segunda Chamada - Programação Web\Imobiliaria_Home_Office\src\Historia\Historias\obj\Debug\netcoreapp3.1\Historias.pdb

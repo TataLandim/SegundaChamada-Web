@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Imobiliaria_HomeOffice.Models.HomeViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Página Principal</h1>
+
+<br />
+<div class="row">
+
+        <div class="col-md-6 col-sm-12">
+            <form asp-controller="Home" asp-action="PesquisaPorCidade">
+                <p>
+                    <a>Busca por Cidade: </a><input type="text" name="SearchString1" />
+                    <input class="btn-primary" type="submit" value="Pesquisar" />
+                </p>
+            </form>
+        </div>
+
+
+        <div class="col-md-6 col-sm-12">
+            <form asp-controller="Home" asp-action="PesquisaPorBairro">
+                <p>
+                    <a>Busca por Bairro: </a><input type="text" name="SearchString2" />
+                    <input class="btn-primary" type="submit" value="Pesquisar" />
+                </p>
+            </form>
+        </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

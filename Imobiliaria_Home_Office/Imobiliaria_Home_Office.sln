@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{84E4682E-1983-4E1A-9DCA-C1D8B7A4E970}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{108C508B-FFB3-425B-A4D8-D691045C8D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{F2A046D7-06E3-428F-B3FE-2E61F8C6C4C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{A90C78B5-9852-4F61-863A-F1EA197970F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Historia", "Historia", "{F4AA792C-FDDC-4957-B25A-D9F601530A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imobiliaria_HomeOffice", "src\Web\Imobiliaria_HomeOffice\Imobiliaria_HomeOffice.csproj", "{8747D0F3-046E-4B4B-9ACE-FD073D7864F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Historias", "src\Historia\Historias\Historias.csproj", "{0A860BC9-0DE9-48A5-8214-73C083D58D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "src\Dominio\Dominio\Dominio.csproj", "{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "src\Infra\Infra\Infra.csproj", "{79EFCD11-9962-4F10-BA2E-975D70ACF88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8747D0F3-046E-4B4B-9ACE-FD073D7864F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8747D0F3-046E-4B4B-9ACE-FD073D7864F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8747D0F3-046E-4B4B-9ACE-FD073D7864F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8747D0F3-046E-4B4B-9ACE-FD073D7864F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A860BC9-0DE9-48A5-8214-73C083D58D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A860BC9-0DE9-48A5-8214-73C083D58D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A860BC9-0DE9-48A5-8214-73C083D58D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A860BC9-0DE9-48A5-8214-73C083D58D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EFCD11-9962-4F10-BA2E-975D70ACF88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EFCD11-9962-4F10-BA2E-975D70ACF88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EFCD11-9962-4F10-BA2E-975D70ACF88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EFCD11-9962-4F10-BA2E-975D70ACF88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{108C508B-FFB3-425B-A4D8-D691045C8D9C} = {84E4682E-1983-4E1A-9DCA-C1D8B7A4E970}
+		{F2A046D7-06E3-428F-B3FE-2E61F8C6C4C7} = {84E4682E-1983-4E1A-9DCA-C1D8B7A4E970}
+		{A90C78B5-9852-4F61-863A-F1EA197970F4} = {84E4682E-1983-4E1A-9DCA-C1D8B7A4E970}
+		{F4AA792C-FDDC-4957-B25A-D9F601530A14} = {84E4682E-1983-4E1A-9DCA-C1D8B7A4E970}
+		{8747D0F3-046E-4B4B-9ACE-FD073D7864F6} = {108C508B-FFB3-425B-A4D8-D691045C8D9C}
+		{0A860BC9-0DE9-48A5-8214-73C083D58D0A} = {F4AA792C-FDDC-4957-B25A-D9F601530A14}
+		{39B378C9-8DBF-4C6A-8DD0-F2401FEAFF75} = {A90C78B5-9852-4F61-863A-F1EA197970F4}
+		{79EFCD11-9962-4F10-BA2E-975D70ACF88B} = {F2A046D7-06E3-428F-B3FE-2E61F8C6C4C7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E31C5C8-7721-491A-B09C-124F5AA68FA1}
+	EndGlobalSection
+EndGlobal

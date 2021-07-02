@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Imobiliaria_HomeOffice.Models.ImovelViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Cadastro de Imóveis</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Novo">Novo Imóvel</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtdDeQuartos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorDoAluguel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdDeQuartos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorDoAluguel)
+            </td>
+            <td>
+                @Html.ActionLink("Alterar", "Alterar", new {  id=item.Id  }) |
+                @Html.ActionLink("Detalhar", "Detalhar", new {  id=item.Id  }) |
+                @Html.ActionLink("Excluir", "Excluir", new {  id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
